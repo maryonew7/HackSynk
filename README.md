@@ -1,8 +1,5 @@
 # HackSynk
 🚀 HackSynk – A unified digital platform for managing hackathons: team formation, project submission, judging &amp; evaluation, and results — built for organizers, participants, and judges.
-# HackSynk 🎯
-
-A unique digital platform that unites the different stakeholders of any hackathon — organizers, participants, and judges — within a single, orderly environment.
 
 ## 📖 About
 
